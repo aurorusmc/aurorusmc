@@ -4,7 +4,8 @@
 ## 📂 My projects
 ⛏️ LuminaryMC - founder (Minecraft network): https://luminarymc.net/ <br>
 💻 Aurocode - founder (Development organisation): https://aurocode.com/ <br>
-🥔 Kartoffelchips Development - moderator (Development organisation): https://strassburger.org/
+🥔 Kartoffelchips Development - moderator (Development organisation): https://strassburger.org/ <br>
+🦥 Slothy Crew - supporter (Community discord): https://discord.gg/slothycrew/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/99F2cQ2qZd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aurorus_aurorus) 
